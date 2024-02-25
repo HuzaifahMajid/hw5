@@ -1,7 +1,7 @@
 const request = require('supertest');
 const http = require('http');
 
-const port = 3001;
+const port = 3000;
 const server = require('../src/best_server'); // Import your server file
 
 describe('Server API Tests', () => {
