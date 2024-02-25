@@ -1,0 +1,19 @@
+{
+  "name": "connection",
+  "version": "1.0.0",
+  "description": "testing connection of endpoint along with format of repsonse ",
+  "main": "best_server.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "\"node.js\"",
+    "\"javascript\""
+  ],
+  "author": "zazi",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^5.1.0",
+    "supertest": "^6.3.4"
+  }
+}
